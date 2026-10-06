@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "First Test"
+date:   2026-10-06 21:58:31 +0300
+categories: jekyll update
+---
+
+Testing post functionality.
+
+I want to make the front page a wall of my most recent projects within the different creative venture I have going on.
+
+Hopefully this works.
