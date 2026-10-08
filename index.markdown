@@ -5,3 +5,12 @@
 layout: home
 ---
 
+[My Youtube Channel]
+
+[My Youtube Channel]: https://youtube.com/@kexu23
+
+Latest Video: 
+
+<iframe width="600" height="340" 
+src="https://www.youtube.com/embed?listType=playlist&list=UUcN0XtqtKw0MwmTtEuGgoFg" 
+frameborder="0" allowfullscreen></iframe> 
