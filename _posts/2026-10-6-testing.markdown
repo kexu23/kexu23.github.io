@@ -7,6 +7,6 @@ categories: jekyll update
 
 Testing post functionality.
 
-I want to make the front page a wall of my most recent projects within the different creative venture I have going on.
+I want to make the front page a wall of my most recent projects within the different creative ventures I have going on.
 
 Hopefully this works.
