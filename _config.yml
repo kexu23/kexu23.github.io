@@ -22,7 +22,7 @@ title: Kexu's Stash
 email: kexu23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! This is a place where you should be able to find most things that I've created. Github repositories, music that I make and hopefully some games and 3D models/renders in the future.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kexu23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kexu23
 
