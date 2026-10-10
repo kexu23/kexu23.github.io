@@ -2,7 +2,7 @@
 layout: post
 title:  "Video Embeds?"
 date:   2026-10-09 00:45:00 +0300
-categories: jekyll update
+categories: blogpost
 ---
 
 
